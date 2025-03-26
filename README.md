@@ -1,6 +1,6 @@
 # Incredibox Neesterversal: The Ultimate Tactical Experience
 
-![Incredibox Neesterversal Gameplay](https://raw.githubusercontent.com/sprunkiscrunkly/incredibox-neesterversal/refs/heads/main/incredibox-neesterversal-gameplay.png "Incredibox Neesterversal Tactical Combat")
+![Incredibox Neesterversal Gameplay](https://raw.githubusercontent.com/sprunkiscrunkly/incredibox-neesterversal/refs/heads/main/incredibox-neesterversal.png "Incredibox Neesterversal Tactical Combat")
 
 🎮 Play Now - Original Edition: [Incredibox Neesterversal](https://sprunksters.com/incredibox-neesterversal/ "Launch Incredibox Neesterversal")
 
